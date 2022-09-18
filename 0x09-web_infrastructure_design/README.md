@@ -13,7 +13,7 @@ After cloning the repository Navigate to the "AirBnB_clone" repository
     cd alx-system_engineering-devops/0x09-web_infrastructure_design
     
 ## Authors
-* **Justin Akinyi** <justakinyi1@gmail.com>
+* **Abubakar Ogirima** <abubakarogirima@gmail.com>
 
 ##   WEB INFRASTRACTURE DESIGN
 ###  Tasks
